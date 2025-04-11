@@ -21,5 +21,5 @@
   "Web": ["HTML", "CSS", "React"],
   "Machine Learning" : ["Pandas","Matplotlib","Sklearn"]
   "Databases": ["MySQL"],
-  "Tools": ["Git", "VS Code"]
+  "Tools": ["Git", "VS Code","Jupyter Notebook"]
 }
