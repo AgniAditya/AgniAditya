@@ -18,6 +18,21 @@
 
 ---
 
+### 🎯 My Goals
+
+- 💡 **Short-Term**: Master **MLOps**, build a **full-stack app**, and solve 500+ problems on LeetCode.
+- 🚀 **Mid-Term**: Contribute to prominent **open-source AI projects** and build my own ML-powered app.
+- 🌱 **Long-Term**: Become an expert in **Deep Learning** and work on projects that can have a positive impact on society.
+
+---
+
+### 💡 Currently Learning
+
+- **Backend Development**: Exploring frameworks `Node.js`.
+- **Cloud Computing**: Learning about **AWS**, **Azure**, and how to deploy machine learning models in the cloud.
+
+---
+
 ### 🔧 Tech Stack
 
 | Category | Tools |
@@ -40,11 +55,20 @@
 
 ### 📫 Let's Connect
 
+#### You can find me on:
+
 <p align="left">
-  <a href="https://github.com/your-username" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- Add LinkedIn, Portfolio, or other socials if you want -->
+  <a href="https://www.linkedin.com/in/aditya-agnihotri-097408302/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/AdityaAgni05" target="_blank"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/agnihotriaditya" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%23007BFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
+
+#### Or shoot me an email at:
+
+<p align="left">
+  <a href="mailto:agniaditya05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 
 ---
 
